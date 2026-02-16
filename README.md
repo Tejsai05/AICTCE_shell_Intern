@@ -1,13 +1,10 @@
-# AICTCE Shell Internship Project Report
+# AICTCE **Shell** 6-week Internship Project Report
+## Proof of completion
+
+
+![Proof Image](https://drive.google.com/uc?export=view&id=1Df3SbTIAF6aC7gRuiUTcPfDjfi1keDUn)
 
 ## Energy Consumption Analysis Using Smart Meter Data
-
-**Intern Name:** Tejsai05  
-**Project Week:** Week 1  
-**Date:** February 2026  
-**Repository:** [Tejsai05/AICTCE_shell_Intern](https://github.com/Tejsai05/AICTCE_shell_Intern)
-
----
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
